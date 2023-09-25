@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbraceUmbraco.Web", "Src\EmbraceUmbraco.Web\EmbraceUmbraco.Web.csproj", "{38DCDC8E-5217-49C5-A639-7250C8755A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbraceUmbraco.Core", "Src\EmbraceUmbraco.Core\EmbraceUmbraco.Core.csproj", "{9468CD20-6DB7-42EC-A1E1-8A5C106383A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{8DB91088-A42B-4C7A-957D-A5D56C37A702}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DCDC8E-5217-49C5-A639-7250C8755A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DCDC8E-5217-49C5-A639-7250C8755A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DCDC8E-5217-49C5-A639-7250C8755A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DCDC8E-5217-49C5-A639-7250C8755A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9468CD20-6DB7-42EC-A1E1-8A5C106383A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9468CD20-6DB7-42EC-A1E1-8A5C106383A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9468CD20-6DB7-42EC-A1E1-8A5C106383A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9468CD20-6DB7-42EC-A1E1-8A5C106383A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

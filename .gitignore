@@ -1,0 +1,11 @@
+# Generic
+bin
+obj
+
+# Umbraco
+/Src/EmbraceUmbraco.Web/wwwroot/umbraco
+/Src/EmbraceUmbraco.Web/umbraco/*
+!/Src/EmbraceUmbraco.Web/umbraco/Data
+/Src/EmbraceUmbraco.Web/umbraco/Data/*
+!/Src/EmbraceUmbraco.Web/umbraco/Data/Umbraco.sqlite.db
+/Src/EmbraceUmbraco.Web/Smidge
